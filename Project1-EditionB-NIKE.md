@@ -70,3 +70,9 @@ The FY2026 evidence identifies important operating risks, but it does not yet es
 My valuation will require explicit assumptions about NIKE Direct traffic and revenue recovery, Greater China growth, gross margin, and working-capital needs. I will test how changes in these assumptions affect Nike's estimated value.
 
 I also need to evaluate Nike's disclosed commitments individually. I will include a commitment as a valuation adjustment only if the chosen methodology and course definition require it; otherwise, I will monitor it as an operating or liquidity risk.
+
+This report was written for FIN 43900 (AI Finance Applications, Purdue) as a learning exercise. It is not investment research and it is not financial advice.
+
+AI assistance: drafted with ChatGPT/Codex, resumed from my Lab 03 session; sources gathered and verified by me; the judgments are mine.
+
+Any remaining errors are my own.
