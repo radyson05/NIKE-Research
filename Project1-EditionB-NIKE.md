@@ -1,4 +1,4 @@
-# Project 1 - Edition A: NIKE, Inc. (NKE)
+# Project 1 - Nike_2026-09-03_report.md)
 
 ## Primary filing and known evidence
 
