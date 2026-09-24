@@ -99,7 +99,7 @@ Model reconciliation: the DCF’s $9,027m “cash” input equals $7,563m cash a
 | WACC: 10.0% | judgment | This is the course base case for the return demanded by capital providers; it needs sensitivity analysis. |
 | Terminal growth: 3.0% | judgment | A conservative long-run nominal-growth assumption, below the 10% discount rate. |
 
-NIKE reported positive net income in all three history years. There are therefore no historical “negative FCFE” years to flag in this start. If a future projected year has negative FCFE, label it **negative FCFE** and exclude it from terminal-value formation: a perpetuity formula applied to negative cash flow is not an economic terminal value.
+NIKE reported positive net income in all three history years. There are therefore no historical “negative FCFE” years to flag in this start. 
 
 ## Final model check block and market comparison
 
