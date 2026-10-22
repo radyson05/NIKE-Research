@@ -63,16 +63,16 @@ I then restored the original 0.25 correlation in `portfolio.py`. This confirms t
 
 ## My fund universe
 
-This course-practice universe contains one fund for each requested role.
+This project universe uses Nike, Inc. (NKE) as the equity sleeve.
 
 | Ticker | Fund | Role |
 |---|---|---|
 | BIL | SPDR Bloomberg 1-3 Month T-Bill ETF | Cash and reserve |
 | IEF | iShares 7-10 Year Treasury Bond ETF | Government bonds |
 | LQD | iShares iBoxx $ Investment Grade Corporate Bond ETF | Fixed income |
-| VT | Vanguard Total World Stock ETF | Equity |
+| NKE | Nike, Inc. | Equity (single-company stock) |
 
-`prices.csv` contains 60 completed monthly adjusted-close prices, date first and oldest month first, from October 2021 through September 2026. `prices_sources.md` records the Yahoo Finance source and download date for each ticker.
+`prices.csv` contains 60 completed monthly adjusted-close prices, date first and oldest month first, from October 2021 through September 2026. `prices_sources.md` records the Yahoo Finance source and download date for each ticker. NKE is a stock rather than a fund, so its use as the equity sleeve should be confirmed against the instructor's universe requirements.
 
 ## CSV estimates
 
